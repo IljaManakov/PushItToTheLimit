@@ -1,0 +1,9 @@
+opencv
+scikit-image
+torchvision
+numpy
+scipy
+h5py
+torch
+pt-trainer
+autoencoder
