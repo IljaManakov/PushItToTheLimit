@@ -30,7 +30,7 @@ model = {
 }
 
 dataset = {
-    'hdf5': '',  # enter filepath of hdf5 containing the dataset
+    'folder': '',  # enter root folder containing the dataset
     'fraction': 0.8
 }
 
